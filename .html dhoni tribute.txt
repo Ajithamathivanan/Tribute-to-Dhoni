@@ -1,0 +1,44 @@
+<html>
+<title>
+   TRIBUTE TO MSD
+</title>
+
+
+ <style>
+            .flex-container {
+              display: flex;
+              flex-direction: column;
+              background-color: DodgerBlue;
+            }
+            
+            .flex-container > div {
+              background-color: #f1f1f1;
+              width: 100px;
+              margin: 10px;
+              text-align: center;
+              line-height: 75px;
+              font-size: 30px;
+            }
+            </style>
+<body>
+  <h1> pictures </h1>  
+<img src="C:\Users\ADMIN\Downloads\dhoni 2.jpeg" height="200px" width="20%">
+    <img src="C:\Users\ADMIN\Downloads\dhoni 3.jpeg" height="200px" width="20%">
+    <img src="C:\Users\ADMIN\Downloads\dhonni 5.jpg" height="200px" width="20%">
+    <img src="https://i1.wp.com/godofindia.com/wp-content/uploads/2017/05/ms-dhoni-39.jpg" height="200px" width="20%">
+    <img src="https://th.bing.com/th/id/OIP.Qh-NsNJ8EtlB6m41Vyr0jgHaE8?w=1600&h=1067&rs=1&pid=ImgDetMain" height="200px" width="20%">
+    <img src="https://wallpapercave.com/wp/wc1714562.jpg" height="200px" width="20%">
+    <img src="https://www.suntiros.com/wp-content/uploads/2017/09/Mahendra-Singh-Dhoni-Cute-Handsame-Wallpapers.jpg" height="200px" width="20%">
+    <img src="https://th.bing.com/th/id/OIP.-HrK-9iX52Fwlkf9MAMK_wHaEo?pid=ImgDet&w=191&h=119&c=7" height="200px" width="20%">
+    <img src="https://e1.pxfuel.com/desktop-wallpaper/259/409/desktop-wallpaper-dhoni-csk-csk-logo.jpg" height="200px" width="20%">
+    <img src="https://wallpapercave.com/wp/wp8937726.jpg" height="200px" width="20%">
+<div class="flex-container">
+ <div><a href="https://en.wikipedia.org/wiki/MS_Dhoni">wikepedia</a></div>
+    <div><a href="C:\Users\ADMIN\Downloads\Mahendra Singh Dhoni (məˈheɪndrə ˈs.txt">click</a></div> 
+
+  
+    </head>
+</html>
+
+</body>
+
